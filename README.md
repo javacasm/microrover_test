@@ -3,7 +3,7 @@
 
 ![](./images/IMG_20201116_131317.jpg)
 
-microRover es un robot pensado como complemento perfecto para aprender a programar robots con micro:bit
+[Freenove microRover](http://www.freenove.com/) es un robot pensado como complemento perfecto para aprender a programar robots con micro:bit
 
 Viene casi completamente montado, a falta de conectar el sensor de ultrasonido y añadir una batería 18650 (que no viene incluída). También incluye un tapete de papel que nos sirve como circuito para el siguelíneas
 
